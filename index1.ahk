@@ -1,0 +1,2 @@
+#SingleInstance, force
+^r::Reload
